@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Timo Rautiainen</h1>
+<h1 align="center">Hi! 👋 I'm Timo Rautiainen</h1>
 <h3>I'm IT and mechanical engineer from Finland. <h3>
 <h3>Here I have pinned some game projects I made or involved in. I have listed here Finnish Game Jam-projects and one Android game that is currently in Google Play Store. I have made them with Unity and Unreal Engine. I am also involved in other projects, but here are some that are finished.</h3>
 
